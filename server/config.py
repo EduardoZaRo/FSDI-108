@@ -9,3 +9,5 @@ developer = {
         "city" : "springfield"
     }
 }
+
+con_str = "mongodb+srv://irvinzavala:<lolbro>@cluster0.zsottod.mongodb.net/?retryWrites=true&w=majority"
