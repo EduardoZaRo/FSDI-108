@@ -10,4 +10,4 @@ developer = {
     }
 }
 
-con_str = "mongodb+srv://irvinzavala:<lolbro>@cluster0.zsottod.mongodb.net/?retryWrites=true&w=majority"
+con_str = "secret link haha"
